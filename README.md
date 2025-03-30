@@ -46,7 +46,10 @@ streamlit run app.py
 - Provide hyperparameter tuning options.
 
 ## 🤝 Contributors
-- **Your Name** – [LinkedIn](www.linkedin.com/in/dhavalakartikeyasomayaji) | [GitHub](https://github.com/Knightkolla)
+- **Dhavala Kartikeya Somayaji** – [LinkedIn](www.linkedin.com/in/dhavalakartikeyasomayaji) | [GitHub](https://github.com/Knightkolla)
+- **Chetna**
+- **Dipon mitra**
+  
 
 ## 📜 License
 This project is licensed under the MIT License. Feel free to contribute and enhance it!
